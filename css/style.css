@@ -1,0 +1,30 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 100vw;
+  background-color: yellow;
+  padding-bottom:15px;
+}
+.header-cnt{
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+}
+
+.header-img{
+  width: 400px;
+  border-radius: 20px;
+}
+
+.elenco{
+  text-align: center;
+
+  }
+
+.elenco li{
+  margin-bottom: 10px;
+}
